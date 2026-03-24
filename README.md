@@ -1,6 +1,6 @@
 - 👋 Hi, I am Jennifer Francis-Nkpornwi
 - 👀 I am a Sales Ops Administrator currently on the journey of perfecting my skills/knowledge in Data analysis/Business Analysis
-- 💞️ I’m looking forward to doing more projects as well as getting a job around Data analysis /Science
+- 💞️ I’m looking forward to doing more projects as well as getting a job around Data analysis /Science and Business Analysis
 - 📫 How to reach me jennifer.ezeanyim@gmail.com
 
 <!---
