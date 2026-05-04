@@ -19,19 +19,27 @@ My work sits at the intersection of process improvement, stakeholder needs, and 
 ## Portfolio Projects
 
 ### Online Bakery App Analysis:
+
 Industry: Food & Retail
+
 Focus: BRD, SRD, Process Modelling, Digital Solution Design
 
 ### Data Wrangling with SQL
+
 Industry: General
+
 Focus: Data Cleaning, SQL, Data Quality
 
 ### BA Transition Journey
+
 Industry: Cross section
+
 Focus: Requirements, Process Flows, Case Studies
 
 ### School Management System — Coming Soon
+
 Industry: Education
+
 Focus:
 
 ## Tools & Technologies
