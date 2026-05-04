@@ -43,7 +43,9 @@ Before moving fully into Business Analysis, I spent 9+ years in sales operations
 
 ### Let's Connect
 Email: jennifer.ezeanyim@gmail.com
-LinkedIn: linkedin.com/in/jenniferfrancis-nkpornwi
+
+LinkedIn: [linkedin.com/in/jenniferfrancis-nkpornwi](https://www.linkedin.com/in/jenniferfrancis-nkpornwi/)
+
 
 Currently open to Business Analyst, Junior BA, and Process Analyst opportunities.
 
