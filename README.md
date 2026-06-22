@@ -1,6 +1,6 @@
 # Jennifer Francis-Nkpornwi | Business Analyst
 
-I'm a Business Analyst with a background in sales operations and customer experience, bringing 9+ years of cross-functional business exposure to every problem I analyse.
+I'm a Business Analyst with a background in sales operations and customer experience, bringing over 7 years of cross-functional business exposure to every problem I analyse.
 
 My work sits at the intersection of process improvement, stakeholder needs, and data — translating messy real-world business problems into structured, actionable solutions.
 
@@ -46,7 +46,7 @@ Focus:
 Visio,CRM Systems, Power BI, Balsamiq, Jira,•	Microsoft Excel (Data Analysis, Pivot Tables) 
 
 ## Background
-Before moving into Business Analysis, I spent 9+ years in sales operations, customer service, and business development — roles that required constant stakeholder communication, process troubleshooting, and data-driven decision making. That operational background shapes how I approach analysis: with commercial awareness and a genuine understanding of how businesses actually work on the ground
+Before moving into Business Analysis, I spent so many years in sales operations, customer service, and business development — roles that required constant stakeholder communication, process troubleshooting, and data-driven decision making. That operational background shapes how I approach analysis: with commercial awareness and a genuine understanding of how businesses actually work on the ground
 
 
 ### Let's Connect
