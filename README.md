@@ -36,7 +36,7 @@ Industry: Cross section
 
 Focus: Requirements, Process Flows, Case Studies
 
-### School Management System — Coming Soon
+### School Management System 
 
 Industry: Education
 
@@ -46,7 +46,7 @@ Focus:
 Visio,CRM Systems, Power BI, Balsamiq, Jira,•	Microsoft Excel (Data Analysis, Pivot Tables) 
 
 ## Background
-Before moving fully into Business Analysis, I spent 9+ years in sales operations, customer service, and business development — roles that required constant stakeholder communication, process troubleshooting, and data-driven decision making. That operational background shapes how I approach analysis: with commercial awareness and a genuine understanding of how businesses actually work on the ground
+Before moving into Business Analysis, I spent 9+ years in sales operations, customer service, and business development — roles that required constant stakeholder communication, process troubleshooting, and data-driven decision making. That operational background shapes how I approach analysis: with commercial awareness and a genuine understanding of how businesses actually work on the ground
 
 
 ### Let's Connect
