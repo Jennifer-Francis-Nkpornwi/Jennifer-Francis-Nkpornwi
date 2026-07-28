@@ -34,6 +34,12 @@ Industry: General
 
 Focus: Data Cleaning, SQL, Data Quality
 
+### SmartSave FinTech App Analysis
+
+Industry: FinTech (Personal Finance & Digital Banking)
+
+Focus: Business Case, Gap Analysis, As-Is & To-Be Process Modeling, BRD, URD, SRD, Use Cases, User Personas & Journey Mapping, Wireframing, Digital Solution Design
+
 ### BA Transition Journey
 
 Industry: Cross section
