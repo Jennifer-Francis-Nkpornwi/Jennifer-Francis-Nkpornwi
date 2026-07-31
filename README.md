@@ -83,8 +83,10 @@ Power BI • DAX • Excel • Power Query • SQL • Visio • BPMN • CRM Sy
 
 
 ## Background
-Before moving into Business Analysis, I spent so many years in sales operations, customer service, and business development — roles that required constant stakeholder communication, process troubleshooting, and data-driven decision making. That operational background shapes how I approach analysis: with commercial awareness and a genuine understanding of how businesses actually work on the ground
 
+Before moving into **Business Analysis** and **Data Analysis**, I spent **7+ years** in sales, sales operations, customer service, and business development—roles that demanded constant stakeholder communication, process troubleshooting, and data-driven decision-making.
+
+That operational background shapes how I work today. I bring commercial awareness and a genuine understanding of how businesses actually run on the ground to every dataset I clean, every dashboard I build, and every process I map.
 
 ### Let's Connect
 Email: jennifer.ezeanyim@gmail.com
