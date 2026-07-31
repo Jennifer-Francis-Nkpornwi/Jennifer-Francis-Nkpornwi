@@ -60,11 +60,11 @@ Industry: Retail
 
 Focus: Sentiment Analysis, EDA, Power BI Dashboard Analyzed 23,000+ customer reviews to uncover drivers of satisfaction and product recommendations.
 
-### Amazon E-commerce Product Analysis 
+### WealthBridge Investment Preference Analysis
+Industry: Financial Services
 
-Industry: E-commerce 
-
-Focus: Sales Analysis, Pricing Strategy, Power BI Dashboard Identified top-performing products and pricing opportunities from sales, discount, and category data.
+Focus: Business Analysis, Data Analytics, Power BI Dashboard
+Analyzed investor preferences, financial goals, and demographic trends to uncover investment insights and support data-driven business decisions
 
 ### Hotel Booking Analysis 
 
