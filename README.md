@@ -7,16 +7,21 @@ My work sits at the intersection of process improvement, stakeholder needs, and 
 Currently a Data Analyst Intern at MicroTech Africa, delivering end-to-end analytics projects on real-world business datasets.
 
 ## What I Do
-•	Business Requirements Documentation — BRDs, SRDs, use cases, and user stories
 
-•	Process Analysis — As-Is / To-Be mapping, swimlane diagrams, BPMN modelling
+### Business Analysis
 
-•	Stakeholder Analysis — identifying needs, managing expectations, facilitating alignment
+* **Business Requirements Documentation** — BRDs, SRDs, use cases, and user stories
+* **Process Analysis** — As-Is / To-Be mapping, swimlane diagrams, and BPMN modelling
+* **Stakeholder Analysis** — Identifying needs, managing expectations, and facilitating alignment
+* **Root Cause Analysis** — Diagnosing the real problem before jumping to solutions
 
-•	Data Analysis — SQL for data wrangling and cleaning, Excel for reporting and insights
+### Data Analysis
 
-•	Root Cause Analysis — diagnosing the real problem before jumping to solutions
-
+* **Data Cleaning & Preparation** — Wrangling messy, real-world datasets into analysis-ready form
+* **SQL** — Querying, transforming, and structuring data for reporting and insights
+* **Dashboard Building** — Developing end-to-end Power BI dashboards, from data modelling to visual storytelling
+* **DAX** — Creating calculated measures and columns that transform raw data into business logic
+* **Excel Reporting** — Building pivot tables, formulas, and structured reports for stakeholder decision-making
 
 ## Portfolio Projects
 
@@ -27,12 +32,6 @@ Currently a Data Analyst Intern at MicroTech Africa, delivering end-to-end analy
 Industry: Food & Retail
 
 Focus: BRD, SRD, Process Modelling, Digital Solution Design
-
-### Data Wrangling with SQL
-
-Industry: General
-
-Focus: Data Cleaning, SQL, Data Quality
 
 ### SmartSave FinTech App Analysis
 
@@ -72,6 +71,12 @@ Focus: Sales Analysis, Pricing Strategy, Power BI Dashboard Identified top-perfo
 Industry: Hospitality 
 
 Focus: Cancellation Impact, Revenue Analysis, Power BI Quantified revenue lost to cancellations and recommended operational fixes to improve occupancy.
+
+### Data Wrangling with SQL
+
+Industry: General
+
+Focus: Data Cleaning, SQL, Data Quality
 
 ## Tools & Technologies
 Power BI • DAX • Excel • Power Query • SQL • Visio • BPMN • CRM Systems • Balsamiq • Jira
